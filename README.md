@@ -1,16 +1,15 @@
-## Hi there 👋
-
+## Hello! Welcome to my Github profile 👋
+My name is Maiane
 <!--
-**MaianeSouza/MaianeSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Sou formada em Matemática e ingressando na área de programação. 
+Aluna do programa One Oracle Next Educacion - Alura
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫https://www.linkedin.com/in/maiane-souza-bbb02b4b-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+
+
+
+
+
