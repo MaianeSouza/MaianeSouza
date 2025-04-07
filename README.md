@@ -1,5 +1,5 @@
 # Hello! Welcome to my Github profile 👋
-**#My name is Maiane**
+**My name is Maiane**
 
 >Sou formada em Matemática e ingressando na área de programação. 
 >
